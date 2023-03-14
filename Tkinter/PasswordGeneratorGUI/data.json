@@ -1,0 +1,10 @@
+{
+    "'": {
+        "email": "oni@email.ro",
+        "password": "'"
+    },
+    "aa": {
+        "email": "oni@email.ro",
+        "password": "aa"
+    }
+}
